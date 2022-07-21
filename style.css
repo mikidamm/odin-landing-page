@@ -6,13 +6,11 @@ html {
     justify-content: center;
     
 }
-#headercontent {
-    font-family: monospace;
+.headercontent {
     display: flex;
-    font-weight: bolder;
-    color: #F9FAF8;
     font-size: 12px;
     gap: 40px;
+    align-items: center;
     
 }
 .logo {
@@ -20,4 +18,10 @@ html {
     width: 150px;
     height: 100px;
     margin-right: 1100px;
+}
+#link {
+    font-family: monospace;
+    color: #E5E7EB;
+    font-size: 18px;
+    font-weight: 100;
 }
