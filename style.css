@@ -3,23 +3,21 @@ html {
 }
 .header {
     display: flex;
-    gap: 30px;
     justify-content: center;
-    align-items: center;
-    border: 2px solid black;
-    height: 200px;
+    
 }
 #headercontent {
     font-family: monospace;
+    display: flex;
     font-weight: bolder;
     color: #F9FAF8;
-    font-size: 18px;
-    gap: 10px;    
+    font-size: 12px;
+    gap: 40px;
     
 }
 .logo {
     display: block;
-    width: 100px;
+    width: 150px;
     height: 100px;
-    justify-content: left;
+    margin-right: 1100px;
 }
