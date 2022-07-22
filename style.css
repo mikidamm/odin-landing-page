@@ -28,6 +28,7 @@ html {
 .introduction {
     display: flex;
     justify-content: center;
+    align-items: center;
     gap: 40px;
 }
 #main_image {
@@ -35,8 +36,17 @@ html {
     height: 200px;
     border-radius: 10px;
 }
+.mainsub_text {
+    display: flex;
+    flex-direction: column;
+}
 #main_text {
     font-family: monospace;
-    color: #f9faf8;
+    color: #F9FAF8;
     font-size: 48px;
+}
+#sub_text {
+    font-family: monospace;
+    color: #E5E7EB;
+    font-size: 18px;
 }
