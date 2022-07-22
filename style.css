@@ -122,11 +122,12 @@ html {
     margin-bottom: 70px;
     justify-content: center;
     align-items: center;
+    width: 40%;
 }
 .acts {
     display: flex;
     flex-direction: column;
-    margin-right: 10px;
+    margin-right: 30px;
 }
 #act1 {
     font-family: monospace;
@@ -145,6 +146,14 @@ html {
     font-size: 17px;
     border: 2px solid #F9FAF8;
     padding: 10px 10px 10px 10px;
-    margin-left: 10px;
+    margin-left: 30px;
     border-radius: 10px;
+}
+#madetext {
+    font-family: monospace;
+    color: #F9FAF8;
+    font-size: 18px;
+    font-weight: 100;
+    text-align: center;
+    font-style: italic;
 }
