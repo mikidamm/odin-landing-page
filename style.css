@@ -108,18 +108,27 @@ html {
 .actiontime {
     background-color: #F9FAF8;
     display: flex;
-    flex-direction: column;
-    align-items: center;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
 }
 .actioncontainer {
+    display: flex;
+    flex-direction: column;
     border: 2px solid #3882f6;
     background-color: #3882f6;
+    border-radius: 5px;
     margin-top: 70px;
     margin-bottom: 70px;
 }
 #act1 {
     font-family: monospace;
-
+    color: #F9FAF8;
+    font-size: 20px;
+}
+#act2 {
+    font-family: monospace;
+    color: #F9FAF8;
+    font-size: 15px;
+    font-weight: 100;
 }
