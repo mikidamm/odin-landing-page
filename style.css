@@ -71,7 +71,7 @@ html {
     display: flex;
     flex-direction: row;
     gap: 50px;
-    margin-bottom: 60px;
+    
 }
 .pic_info {
     display: flex;
@@ -89,4 +89,26 @@ html {
     color: #1F2937;
     font-size: 18px;
     font-weight: 100;
+}
+.quote {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    margin-top: 400px;
+    justify-content: center;
+    align-items: center;
+}
+#quote_text {
+    font-family: monospace;
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    padding-left: 300px;
+    padding-right: 300px;
 }
