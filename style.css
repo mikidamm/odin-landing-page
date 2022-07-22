@@ -44,6 +44,7 @@ html {
     font-family: monospace;
     color: #F9FAF8;
     font-size: 48px;
+    font-weight: bolder;
 }
 #sub_text {
     font-family: monospace;
@@ -51,8 +52,18 @@ html {
     font-size: 18px;
 }
 .information {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     position: absolute;
     left: 0px;
     right: 0px;
     background-color: #F9FAF8;
+    margin-top: 60px;
+}
+#info_header {
+    font-family: monospace;
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: bolder;
 }
