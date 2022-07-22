@@ -112,3 +112,15 @@ html {
     padding-left: 450px;
     padding-right: 450px;
 }
+.actiontime {
+    background-color: #F9FAF8;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    margin-top: 680px;
+    justify-content: center;
+    align-items: center;
+}
