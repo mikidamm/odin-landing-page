@@ -68,7 +68,7 @@ html {
     display: flex;
     flex-direction: row;
     gap: 50px;
-    
+    margin-bottom: 60px;
 }
 .pic_info {
     display: flex;
@@ -117,12 +117,12 @@ html {
     flex-direction: row;
     border: 2px solid #3882f6;
     background-color: #3882f6;
-    border-radius: 5px;
+    border-radius: 7px;
     margin-top: 70px;
     margin-bottom: 70px;
     justify-content: center;
     align-items: center;
-    width: 40%;
+    width: 30%;
 }
 .acts {
     display: flex;
