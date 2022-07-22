@@ -8,3 +8,5 @@ Challenger 3: https://c.files.bbci.co.uk/9449/production/_118416973_rbslimage_ch
 M1 Abrams: https://www.navalnews.com/naval-news/2020/09/the-u-s-marine-corps-has-divested-in-their-tanks-well-what-does-that-mean/
 T90: https://tass.com/defense/1052790
 Leopard 2 (used in information section): https://euro-sd.com/2019/11/news/15258/leopard-2-a7-enters-service/
+I DO NOT OWN TANK ENCYCLOPEDIA, ALL CREDITS GO TO OWNERS OF IT. 
+https://tanks-encyclopedia.com/
