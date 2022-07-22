@@ -50,3 +50,9 @@ html {
     color: #E5E7EB;
     font-size: 18px;
 }
+.information {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    background-color: #F9FAF8;
+}
