@@ -114,12 +114,19 @@ html {
 }
 .actioncontainer {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     border: 2px solid #3882f6;
     background-color: #3882f6;
     border-radius: 5px;
     margin-top: 70px;
     margin-bottom: 70px;
+    justify-content: center;
+    align-items: center;
+}
+.acts {
+    display: flex;
+    flex-direction: column;
+    margin-right: 10px;
 }
 #act1 {
     font-family: monospace;
@@ -131,4 +138,13 @@ html {
     color: #F9FAF8;
     font-size: 15px;
     font-weight: 100;
+}
+#signup {
+    font-family: monospace;
+    color: #F9FAF8;
+    font-size: 17px;
+    border: 2px solid #F9FAF8;
+    padding: 10px 10px 10px 10px;
+    margin-left: 10px;
+    border-radius: 10px;
 }
